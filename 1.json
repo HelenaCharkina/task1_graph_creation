@@ -1,0 +1,7 @@
+[
+ {"from": "A", "to": "B", "index": 1},
+ {"from": "C", "to": "B", "index": 0},
+ {"from": "D", "to": "C", "index": 1},
+ {"from": "A", "to": "C", "index": 2},
+ {"from": "D", "to": "C", "index": 0}
+]
